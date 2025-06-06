@@ -4,7 +4,7 @@
 
 This project implements a classic two-player "Connect Four" game. The objective of Connect Four is for players to be the first to form a line of four of their own colored discs, either horizontally, vertically, or diagonally.
 
-![Connect Four Gameplay Screenshot](images/connect four.jpg)
+![Connect Four Gameplay Screenshot](images/connect_four.jpg)
 ## Game Rules
 
 * **Two Players:** The game is designed for two players.
