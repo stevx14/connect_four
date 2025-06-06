@@ -33,7 +33,7 @@ This project implements a classic two-player "Connect Four" game. The objective 
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/stevx14/connect_four.git](https://github.com/stevx14/connect_four.git)
-    cd YOUR_REPOSITORY_NAME
+    cd connect_four
     ```
    
 
